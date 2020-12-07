@@ -1,0 +1,4 @@
+include ':commonSocket'
+include ':LaunchAndCloseGameServer'
+include ':LaunchAndCloseGameClient'
+rootProject.name = "AndroidAsyncDemo"
